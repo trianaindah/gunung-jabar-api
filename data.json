@@ -1,0 +1,107 @@
+[
+  {
+    "nama": "Gunung Ciremai",
+    "lokasi": "Kuningan & Majalengka",
+    "ketinggian": 3078,
+    "deskripsi": "Gunung tertinggi di Jawa Barat dengan jalur pendakian populer.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gunung_Ciremai.jpg"
+  },
+  {
+    "nama": "Gunung Gede",
+    "lokasi": "Cianjur & Sukabumi",
+    "ketinggian": 2958,
+    "deskripsi": "Gunung aktif bagian dari Taman Nasional Gede Pangrango.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gunung_Gede.jpg"
+  },
+  {
+    "nama": "Gunung Pangrango",
+    "lokasi": "Bogor, Cianjur, Sukabumi",
+    "ketinggian": 3019,
+    "deskripsi": "Gunung yang berdampingan dengan Gede dan menjadi bagian TN Gunung Gede Pangrango.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gunung_Pangrango.jpg"
+  },
+  {
+    "nama": "Gunung Papandayan",
+    "lokasi": "Garut",
+    "ketinggian": 2665,
+    "deskripsi": "Gunung aktif terkenal dengan kawah, hutan mati, dan padang edelweiss.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Papandayan_Crater.jpg"
+  },
+  {
+    "nama": "Gunung Galunggung",
+    "lokasi": "Tasikmalaya",
+    "ketinggian": 2168,
+    "deskripsi": "Gunung berapi aktif yang pernah meletus besar pada tahun 1982.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gunung_Galunggung.jpg"
+  },
+  {
+    "nama": "Gunung Tangkuban Perahu",
+    "lokasi": "Bandung Barat",
+    "ketinggian": 2084,
+    "deskripsi": "Gunung dengan bentuk kawah mirip perahu terbalik, sangat populer dikunjungi.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tangkuban_Perahu.jpg"
+  },
+  {
+    "nama": "Gunung Salak",
+    "lokasi": "Bogor & Sukabumi",
+    "ketinggian": 2211,
+    "deskripsi": "Gunung mistis dengan banyak jalur pendakian dan hutan lebat.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gunung_Salak.jpg"
+  },
+  {
+    "nama": "Gunung Malabar",
+    "lokasi": "Bandung Selatan",
+    "ketinggian": 2343,
+    "deskripsi": "Gunung tenang dengan banyak situs sejarah dan stasiun radio tua.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gunung_Malabar.jpg"
+  },
+  {
+    "nama": "Gunung Burangrang",
+    "lokasi": "Bandung Barat",
+    "ketinggian": 2050,
+    "deskripsi": "Gunung dekat Tangkuban Perahu, populer untuk pendakian singkat.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gunung_Burangrang.jpg"
+  },
+  {
+    "nama": "Gunung Cikuray",
+    "lokasi": "Garut",
+    "ketinggian": 2821,
+    "deskripsi": "Gunung tertinggi kedua di Jawa Barat, terkenal dengan sunrise dan trek menantang.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gunung_Cikuray.jpg"
+  },
+  {
+    "nama": "Gunung Guntur",
+    "lokasi": "Garut",
+    "ketinggian": 2249,
+    "deskripsi": "Gunung aktif dengan jalur terbuka dan panorama sunrise yang indah.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/d/da/Gunung_Guntur.jpg"
+  },
+  {
+    "nama": "Gunung Wayang",
+    "lokasi": "Pangalengan",
+    "ketinggian": 2241,
+    "deskripsi": "Gunung di selatan Bandung yang memiliki kawah aktif.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gunung_Wayang.jpg"
+  },
+  {
+    "nama": "Gunung Patuha",
+    "lokasi": "Ciwidey",
+    "ketinggian": 2434,
+    "deskripsi": "Gunung yang memiliki Kawah Putih sebagai objek wisata utama.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kawah_Putih.jpg"
+  },
+  {
+    "nama": "Gunung Kendeng",
+    "lokasi": "Majalengka",
+    "ketinggian": 2608,
+    "deskripsi": "Gunung bagian dari kawasan Ciremai, jarang didaki namun eksotis.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Gunung_Kendeng.jpg"
+  },
+  {
+    "nama": "Gunung Rakutak",
+    "lokasi": "Bandung Timur",
+    "ketinggian": 1922,
+    "deskripsi": "Gunung kecil yang cocok untuk pendaki pemula dan hiking ringan.",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/17/Gunung_Rakutak.jpg"
+  }
+]
