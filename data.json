@@ -112,14 +112,6 @@
     "rating": 4.8
   },
   {
-    "nama": "Gunung Bongkok",
-    "lokasi": "Purwakarta, Jawa Barat",
-    "ketinggian": 985,
-    "deskripsi": "Gunung Bongkok menawarkan jalur pendek dan cocok untuk pendakian singkat. Puncaknya yang berbatu menyajikan panorama Waduk Jatiluhur dan sunrise yang spektakuler. Cocok bagi pendaki pemula atau traveler yang ingin pengalaman mendaki tanpa menginap.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunnung-Bongkok.jpg",
-    "rating": 4.7
-  },
-  {
     "nama": "Gunung Parang",
     "lokasi": "Purwakarta, Jawa Barat",
     "ketinggian": 963,
