@@ -4,111 +4,127 @@
     "lokasi": "Kuningan & Majalengka",
     "ketinggian": 3078,
     "deskripsi": "Gunung Ciremai merupakan gunung tertinggi di Jawa Barat yang menjadi primadona para pendaki. Terletak di perbatasan Kabupaten Kuningan dan Majalengka, gunung ini menawarkan jalur pendakian yang menantang, hutan tropis yang lebat, serta panorama kawah aktif di puncaknya. Pemandangan sunrise dari puncaknya sangat menakjubkan, membuatnya menjadi tujuan favorit baik pendaki pemula maupun profesional.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Ciremai.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Ciremai.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Gede",
     "lokasi": "Cianjur & Sukabumi",
     "ketinggian": 2958,
     "deskripsi": "Gunung Gede adalah salah satu gunung berapi aktif di Jawa Barat dan merupakan bagian dari Taman Nasional Gunung Gede Pangrango. Gunung ini dikenal dengan keanekaragaman hayatinya, jalur pendakian yang terawat, serta spot-spot menawan seperti Alun-alun Suryakencana dan Telaga Biru. Pendakian ke Gunung Gede cukup menantang namun aman untuk pendaki pemula yang ingin pengalaman pertama mendaki gunung tinggi.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Gede.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Gede.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Pangrango",
     "lokasi": "Bogor, Cianjur, Sukabumi",
     "ketinggian": 3019,
     "deskripsi": "Gunung Pangrango berdiri berdampingan dengan Gunung Gede dan sama-sama menjadi bagian dari Taman Nasional Gunung Gede Pangrango. Berbeda dari Gede, Pangrango lebih sepi dan jalurnya lebih panjang dan curam. Di puncaknya terdapat Lembah Mandalawangi yang terkenal lewat puisi Soe Hok Gie. Gunung ini cocok bagi pendaki yang mencari ketenangan dan tantangan alam sejati.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Pangrango.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Pangrango.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Papandayan",
     "lokasi": "Garut, Jawa Barat",
     "ketinggian": 2665,
     "deskripsi": "Gunung Papandayan adalah gunung berapi aktif yang populer karena jalurnya yang relatif mudah dan keindahan fenomena alam yang ditawarkannya. Kawah yang aktif, Hutan Mati yang fotogenik, dan padang bunga Edelweiss di Tegal Alun menjadi daya tarik utama. Cocok untuk pendaki pemula hingga keluarga yang ingin menikmati hiking ringan dengan pemandangan luar biasa.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Papandayan.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Papandayan.jpg",
+    "rating": 4.7
   },
   {
     "nama": "Gunung Tangkuban Perahu",
     "lokasi": "Bandung Barat",
     "ketinggian": 2084,
     "deskripsi": "Gunung Tangkuban Perahu merupakan salah satu ikon wisata alam di Bandung yang sangat mudah diakses. Keunikan kawahnya yang bisa dijangkau kendaraan menjadikannya ramah bagi semua kalangan. Gunung ini lekat dengan legenda Sangkuriang dan menjadi tempat yang cocok untuk wisata edukasi geologi serta menikmati pemandangan pegunungan yang menyejukkan.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Tangkubanparahu.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Tangkubanparahu.jpg",
+    "rating": 4.7
   },
   {
     "nama": "Gunung Salak",
     "lokasi": "Bogor & Sukabumi",
     "ketinggian": 2211,
     "deskripsi": "Gunung Salak dikenal sebagai gunung yang memiliki medan berat, berkabut, dan menyimpan aura mistis. Meski jalur pendakiannya menantang, keindahan alamnya luar biasa, terutama Curug dan hutan pegunungan tropis yang masih alami. Gunung ini juga menjadi tempat penelitian biodiversitas karena kekayaan flora dan faunanya.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Salak.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Salak.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Burangrang",
     "lokasi": "Bandung Barat",
     "ketinggian": 2050,
     "deskripsi": "Gunung Burangrang adalah gunung yang cocok bagi pendaki pemula. Jalurnya tidak terlalu panjang dan dapat ditempuh dalam sehari. Pemandangan dari puncak menyajikan panorama Bandung dan sekitarnya. Lokasinya yang dekat dengan Gunung Tangkuban Perahu menjadikannya alternatif populer untuk hiking ringan di akhir pekan.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Burangrang.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Burangrang.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Cikuray",
     "lokasi": "Garut, Jawa Barat",
     "ketinggian": 2821,
     "deskripsi": "Gunung Cikuray merupakan gunung tertinggi kedua di Jawa Barat. Jalurnya cukup terjal dan melelahkan, namun pemandangan sunrise dari puncak sangat mempesona. Gunung ini sangat disukai pendaki karena rutenya yang menantang dan suasana alami hutan yang masih terjaga.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Cikuray.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Cikuray.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Guntur",
     "lokasi": "Garut, Jawa Barat",
     "ketinggian": 2249,
     "deskripsi": "Gunung Guntur adalah gunung berapi aktif dengan jalur pendakian terbuka berupa padang ilalang dan batuan vulkanik. Gunung ini menawarkan pemandangan citylight dari Garut pada malam hari dan sunrise yang sangat memukau. Jalurnya cukup berat dan cocok bagi pendaki yang ingin uji stamina.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Guntur.jpeg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Guntur.jpeg",
+    "rating": 4.6
   },
   {
     "nama": "Gunung Sagara",
     "lokasi": "Garut, Jawa Barat",
     "ketinggian": 2118,
     "deskripsi": "Gunung Sagara adalah destinasi pendakian yang belum terlalu ramai. Daya tariknya adalah hamparan savana di puncak yang luas dan eksotis. Jalurnya relatif pendek dan cocok untuk pendaki pemula yang ingin merasakan keindahan gunung dengan suasana tenang.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Sagara.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Sagara.jpg",
+    "rating": 4.7
   },
   {
     "nama": "Gunung Wayang",
     "lokasi": "Pangalengan",
     "ketinggian": 2241,
     "deskripsi": "Gunung Wayang berada di selatan Bandung dan terkenal dengan kawah aktifnya. Gunung ini menawarkan pemandangan kebun teh dan lembah hijau yang luas. Akses ke gunung ini cukup mudah, menjadikannya pilihan tepat untuk hiking ringan dengan nilai edukatif dan rekreasi.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Wayang.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Wayang.jpg",
+    "rating": 4.6
   },
   {
     "nama": "Gunung Patuha",
     "lokasi": "Ciwidey",
     "ketinggian": 2434,
     "deskripsi": "Gunung Patuha menjadi terkenal karena keberadaan Kawah Putih di ketinggiannya. Kawah ini memiliki air berwarna putih kehijauan dan dikelilingi hutan yang sejuk. Tempat ini populer sebagai destinasi wisata sekaligus lokasi penelitian geologi dan lingkungan.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Patuha.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Patuha.jpg",
+    "rating": 4.7
   },
   {
     "nama": "Gunung Sangar",
     "lokasi": "Majalengka, Jawa Barat",
     "ketinggian": 1823,
     "deskripsi": "Gunung Sangar adalah gunung yang jarang dijamah, menyajikan keheningan dan keasrian yang luar biasa. Jalur pendakiannya cukup menantang namun menyenangkan. Pendakian ke gunung ini cocok untuk pecinta alam yang ingin menjauh dari keramaian.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Sangar.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Sangar.jpg",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Canggah",
     "lokasi": "Subang, Jawa Barat",
     "ketinggian": 1685,
     "deskripsi": "Gunung Canggah merupakan gunung kecil dengan panorama yang menawan. Dikelilingi oleh kebun teh dan hutan lebat, suasananya sangat tenang dan menyegarkan. Gunung ini cocok untuk ekspedisi ringan dan healing dari hiruk pikuk kota.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Canggah.png"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung-Canggah.png",
+    "rating": 4.8
   },
   {
     "nama": "Gunung Bongkok",
     "lokasi": "Purwakarta, Jawa Barat",
     "ketinggian": 985,
     "deskripsi": "Gunung Bongkok menawarkan jalur pendek dan cocok untuk pendakian singkat. Puncaknya yang berbatu menyajikan panorama Waduk Jatiluhur dan sunrise yang spektakuler. Cocok bagi pendaki pemula atau traveler yang ingin pengalaman mendaki tanpa menginap.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunnung-Bongkok.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunnung-Bongkok.jpg",
+    "rating": 4.7
   },
   {
     "nama": "Gunung Parang",
     "lokasi": "Purwakarta, Jawa Barat",
     "ketinggian": 963,
     "deskripsi": "Gunung Parang dikenal dengan tebing batu andesit tertingginya yang menjadi tempat panjat tebing favorit di Indonesia. Jalur vertikalnya menantang dan mendebarkan. Gunung ini memberikan pengalaman ekstrem sekaligus pemandangan memukau ke arah Waduk Jatiluhur dan sekitarnya.",
-    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung%20Parang.jpg"
+    "gambar": "https://raw.githubusercontent.com/trianaindah/gambar/main/Gunung%20Parang.jpg",
+    "rating": 4.8
   }
 ]
